@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
   <img
@@ -34,7 +33,7 @@ Me gusta crear aplicaciones web, experimentar con diferentes tecnologías y ente
 
 Actualmente estoy fortaleciendo mis habilidades en desarrollo Full Stack, construyendo proyectos y buscando nuevas formas de mejorar mi código.
 
-```javascript
+javascript
 const steven = {
   nombre: "Jhojan Steven Serrano Patiño",
   perfil: "Desarrollador web junior",
@@ -50,11 +49,11 @@ const steven = {
 };
 
 console.log("Seguimos aprendiendo...");
-```
+
 
 No se trata de saberlo todo, sino de aprender algo nuevo cada día.
 
----
+
 
 ## Tecnologías y herramientas
 
@@ -88,7 +87,6 @@ No se trata de saberlo todo, sino de aprender algo nuevo cada día.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
----
 
 ## Proyectos destacados
 
@@ -134,7 +132,6 @@ Puedes explorar mis demás trabajos, prácticas y experimentos en mi perfil.
 
 [Ver todos mis repositorios](https://github.com/Steven-Serrano?tab=repositories)
 
----
 
 ## En qué estoy trabajando
 
@@ -173,18 +170,16 @@ Aplicación de los conocimientos adquiridos en el SENA mediante ejercicios, proy
   </tr>
 </table>
 
----
 
 ## Mi forma de desarrollar
 
-```text
+text
 01. Entender el problema antes de escribir código.
 02. Construir soluciones claras y funcionales.
 03. Probar lo que desarrollo, no solo asumir que funciona.
 04. Aprender de los errores y documentar las soluciones.
 05. Mantener los proyectos organizados con Git.
 06. Investigar antes de copiar código que no entiendo.
-```
 
 <details>
   <summary>Conocimientos que estoy fortaleciendo</summary>
@@ -210,7 +205,6 @@ Aplicación de los conocimientos adquiridos en el SENA mediante ejercicios, proy
 
 </details>
 
----
 
 ## Mi actividad en GitHub
 
@@ -228,7 +222,6 @@ Aplicación de los conocimientos adquiridos en el SENA mediante ejercicios, proy
 
 </div>
 
----
 
 ## Explora mi trabajo
 
@@ -252,7 +245,6 @@ Aplicación de los conocimientos adquiridos en el SENA mediante ejercicios, proy
 
 </div>
 
----
 
 ## Contacto y colaboraciones
 
@@ -270,7 +262,6 @@ Si te interesa alguno de mis proyectos, quieres intercambiar conocimientos o exp
 
 </div>
 
----
 
 <div align="center">
 
