@@ -12,7 +12,7 @@
   <a href="https://github.com/Steven-Serrano">
     <img src="https://img.shields.io/badge/GitHub-Steven--Serrano-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Colombia-009945?style=flat-square&logo=colombia&logoColor=white" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/Ubicacion-Colombia-009945?style=flat-square&logo=colombia&logoColor=white" alt="Ubicación"/>
   <img src="https://img.shields.io/badge/Estado-Disponible_para_colaborar-0077B5?style=flat-square" alt="Estado"/>
 </p>
 
@@ -38,7 +38,7 @@
       <ul>
         <li><strong>Formación:</strong> SENA ADSO</li>
         <li><strong>Enfoque:</strong> Full Stack Web</li>
-        <li><strong>Interés:</strong> Clean Code, UX, APIs</li>
+        <li><strong>Interés:</strong> Clean Code, UX, APIs REST</li>
         <li><strong>Idioma:</strong> Español</li>
       </ul>
     </td>
@@ -86,27 +86,50 @@
 
 ## Proyectos Destacados
 
-> Reemplaza estos proyectos con los tuyos reales de tus 6 repositorios.
-
 <table>
   <tr>
     <td width="50%">
-      <h4>📌 Proyecto 1</h4>
-      <p>Breve descripción del proyecto, tecnologías usadas y problema que resuelve.</p>
+      <h4>TechStore Pro</h4>
+      <p>Aplicación web full-stack de comercio electrónico. Incluye autenticación de usuarios mediante JWT, gestión de carrito de compras y conexión a base de datos NoSQL.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
       </p>
-      <p><a href="https://github.com/Steven-Serrano/proyecto1">Ver repositorio →</a></p>
+      <p><a href="https://github.com/Steven-Serrano/techstore_pro"><strong>Ver repositorio →</strong></a></p>
     </td>
     <td width="50%">
-      <h4> Proyecto 2</h4>
-      <p>Breve descripción del proyecto, tecnologías usadas y problema que resuelve.</p>
+      <h4>SEMA</h4>
+      <p>Plataforma web interactiva con enfoque en una experiencia de usuario limpia y profesional. Implementa lógica dinámica en el cliente y sistematización de iconografía (Font Awesome).</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
       </p>
-      <p><a href="https://github.com/Steven-Serrano/proyecto2">Ver repositorio →</a></p>
+      <p><a href="https://github.com/Steven-Serrano/SEMA"><strong>Ver repositorio →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>Portafolio Personal</h4>
+      <p>Sitio web personal responsivo diseñado para mostrar proyectos y habilidades técnicas. Incluye galería de imágenes con filtros interactivos y diseño adaptable a dispositivos móviles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <p><a href="https://github.com/Steven-Serrano/portafolio"><strong>Ver repositorio →</strong></a></p>
+    </td>
+    <td width="50%">
+      <h4>Cosas Bonitas</h4>
+      <p>Interfaz de usuario frontend estructurada y modular. Diseñada como base escalable y lista para futura integración con APIs REST y servicios de backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <p><a href="https://github.com/Steven-Serrano/cosas-bonitas"><strong>Ver repositorio →</strong></a></p>
     </td>
   </tr>
 </table>
@@ -132,28 +155,20 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Serrano&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="Streak" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <h4>Trofeos de GitHub</h4>
-      <img src="https://github-profile-trophy.vercel.app/?username=Steven-Serrano&theme=onedark&no-frame=true&row=1&column=4" alt="Trophies" width="100%"/>
+      <h4>Gráfico de Actividad</h4>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven-Serrano&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true" alt="Activity Graph" width="100%"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## Gráfico de Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven-Serrano&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
 ## Enfoque Actual
 
-- Desarrollo de aplicaciones web con arquitecturas escalables
-- Implementación de patrones de diseño y principios SOLID
-- Profundización en desarrollo Full Stack con Node.js y React
-- Búsqueda activa de oportunidades de colaboración y prácticas profesionales
+- Desarrollo de aplicaciones web con arquitecturas escalables y seguras.
+- Implementación de patrones de diseño y principios SOLID en proyectos reales.
+- Profundización en el ecosistema Full Stack con Node.js, React y MongoDB.
+- Búsqueda activa de oportunidades de colaboración, prácticas profesionales y retos técnicos.
 
 ---
 
