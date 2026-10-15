@@ -29,28 +29,6 @@ Me interesa el desarrollo web, la creación de aplicaciones y la conexión entre
 
 Actualmente estoy fortaleciendo mis conocimientos para crecer como desarrollador Full Stack.
 
-javascript
-const steven = {
-  nombre: "Jhojan Steven Serrano Patiño",
-  ocupacion: "Desarrollador web junior",
-  formacion: "ADSO - SENA",
-  tecnologias: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Tailwind CSS",
-    "Node.js",
-    "Python",
-    "MongoDB",
-    "SQL"
-  ],
-  herramientas: ["Git", "GitHub", "Postman"],
-  objetivo: "Construir mejores aplicaciones web"
-};
-
-console.log("Aprender, desarrollar y mejorar.");
-
 ## Tecnologías
 
 ### Desarrollo frontend
