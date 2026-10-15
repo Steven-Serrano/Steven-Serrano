@@ -23,8 +23,6 @@
 
 </div>
 
----
-
 ## Sobre mí
 
 Soy Jhojan Steven Serrano Patiño, desarrollador web junior y aprendiz del SENA en el programa de Análisis y Desarrollo de Software (ADSO), en Colombia.
@@ -143,14 +141,14 @@ Puedes explorar mis demás trabajos, prácticas y experimentos en mi perfil.
 
 Creación de interfaces adaptables utilizando HTML, CSS, JavaScript, React y Tailwind CSS.
 
-    </td>
+   </td>
     <td width="50%" valign="top">
 
 ### Desarrollo backend
 
 Construcción de la lógica del servidor, aprendizaje de Node.js e integración de servicios y API.
 
-    </td>
+  </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -159,14 +157,14 @@ Construcción de la lógica del servidor, aprendizaje de Node.js e integración 
 
 Práctica con MongoDB y SQL para organizar información, diseñar estructuras y realizar consultas.
 
-    </td>
+  </td>
     <td width="50%" valign="top">
 
 ### Desarrollo de software
 
 Aplicación de los conocimientos adquiridos en el SENA mediante ejercicios, proyectos y resolución de problemas.
 
-    </td>
+  </td>
   </tr>
 </table>
 
